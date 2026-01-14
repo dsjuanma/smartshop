@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop - Gestión Inteligente de Inventario",
+  "description": "Una solución integral para comercios pequeños que ayuda a gestionar inventario, ventas y precios utilizando inteligencia artificial para automatizar el recuerdo de datos y optimizar el negocio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
